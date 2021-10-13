@@ -15,9 +15,6 @@ There are sections selected for certain product groups in the refrigerator. Ther
 
 ## Method of Project
 
-![image]<img
-src=“C:\Users\Acer\Desktop”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![image](https://github.com/mehmetcahitaydin/Smart_Refrigerator/blob/main/method.jpg)
+
+
