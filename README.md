@@ -1,3 +1,6 @@
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-red?logo=GitHub)](https://github.com/mehmetcahitaydin?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/mehmetcahitaydin) 
+
 # Smart Refrigerator
 
 
