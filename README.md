@@ -13,7 +13,7 @@ The aim of the project is to transform the refrigerators, which are found in eve
 
 ## HOW ?
 
-There are sections selected for certain product groups in the refrigerator. There will be a weight sensor under each of these chambers. If the weight of the product measured by this sensor falls below the weight determined by the user, the system will automatically be sent to the user's address through the web-based site where the product/food is sold. It is planned to create the order by reducing the price of the product from the registered credit card.
+There are sections selected for certain product groups in the refrigerator. There will be a weight sensor under each of these sections. If the weight of the product measured by this sensor falls below the weight determined by the user, the system will automatically be sent to the user's address through the web-based site where the product/food is sold. It is planned to create the order by reducing the price of the product from the registered credit card.
 
 
 ## Method of Project
